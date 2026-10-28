@@ -18,7 +18,7 @@ I operate where modern software engineering meets digital business operations—
 
 ### 🏆 Featured Project
 
-#### 🎮 [ClutchZone – Free Fire Tournament Platform](https://clutchzone.fun)
+#### 🎮 [ClutchZone – Free Fire Tournament Platform](https://github.com/Bilal-Sardar/clutchzone-platform.git)
 A free Free Fire tournament platform I built from scratch for players across Pakistan, with live rankings and a secure admin portal to manage tournaments.
 
 - **Real-Time Rank Updates:** Player rankings update live as results are entered, so players can follow their standing instantly.
