@@ -30,7 +30,7 @@ A free Free Fire tournament platform I built from scratch for players across Pak
 
 ### 📬 Get In Touch
 - 📧 **Email:** mbsmja07@gmail.com
-- [💬 **WhatsApp:** [+92 327 0617401](https://wa.me/923270617401?text=Hi%20Bilal%2C%20I%20saw%20your%20GitHub%20profile)
+- 💬 **WhatsApp:** [+92 327 0617401](https://wa.me/923270617401?text=Hi%20Bilal%2C%20I%20saw%20your%20GitHub%20profile)
 - 🌐 **Interactive Portfolio:** [bilal-sardarportfolio.vercel.app](https://bilal-sardarportfolio.vercel.app)
 
-*Ready for worldwide remote roles
+*Ready for worldwide remote roles*
