@@ -1,50 +1,77 @@
-# 👋 Hi, I'm Bilal Sardar | Systems & Web Engineer 🚀
+# 👋 Hi, I'm Bilal Sardar | AI-Assisted Product Builder 🚀
 
-I operate where modern software engineering meets digital business operations—delivering end-to-end production platforms, automated workflows, and high-conversion client pipelines.
+I turn ideas into live, working products using AI-assisted development, then test, secure and ship them myself. I also have hands-on experience in chat-based lead generation and customer communication for US real-estate leads.
 
-### 📊 Metric Snapshot
-- 👨‍💻 **2+ Years** of Professional Experience
-- 🌍 **150+ US Clients** Supported across Lead Gen
-- 🚀 **3+ Live Platforms** Built and Maintained in Production
+**Open to remote roles and freelance projects.**
 
 ---
 
-### 🛠️ Core Tech Stack & Proficiencies
+### 📊 At a Glance
 
-* **AI-Assisted Web Engineering:** Custom Web Apps, Admin Dashboards, Prompt Engineering (Claude, AI Studio), Vercel
-* **Digital Operations:** Lead Generation, CRM Administration, Data Scraping, Advanced Data Analytics
+- 👨‍💻 **1 Year** of lead generation experience (US real-estate leads via Facebook Marketplace)
+- 🌍 **150+ US Leads** handled through script-based chat conversations
+- 🚀 **3+ Live Products** built, launched and maintained by me
+
+---
+
+### 🛠️ What I Do
+
+- **AI-Assisted Web Development:** Custom web apps and admin dashboards using Claude, Google AI Studio and Gemini. Hosted on Vercel, backed by Firebase (Firestore and Authentication).
+- **Product Ownership:** I come up with the idea, define the features, direct the AI, and take responsibility for the final result.
+- **Testing and Security Review:** Every project is tested for a full day across laptop, tablet and mobile (links, buttons, UI), then reviewed for security issues and Firebase rule hardening before launch.
+- **Lead Generation and Customer Chat:** Handled 150+ US leads for house rent/sale listings on Facebook Marketplace, following sales scripts and managing conversations from first message to deal.
+
+---
+
+### ⚙️ How I Build
+
+1. **Idea and planning:** I define the problem and the features, and refine the plan with Gemini.
+2. **Build:** UI and base code with Google AI Studio.
+3. **Clean-up:** Claude helps me remove dead code and fix errors.
+4. **Testing:** A full day of manual testing on laptop, tablet and mobile.
+5. **Security:** Firebase rules hardened and vulnerabilities reviewed before launch.
+6. **Launch:** Deployed on Vercel and improved from real user feedback.
 
 ---
 
 ### 🏆 Featured Projects
 
 #### 🧾 [ScanVerve POS – Billing, Inventory & Managed Store System](https://github.com/Bilal-Sardar/Scanverve)
-A Windows billing, inventory, and fully managed store system built for pharmacies, grocery marts, restaurants, and retail shops across Pakistan — live at **[scanverve.online](https://scanverve.online)**.
+Billing, inventory and fully managed store software for pharmacies, grocery marts, restaurants and retail shops in Pakistan. Live at **[scanverve.online](https://scanverve.online)**.
 
-- **Offline-First Counter Core:** Instant barcode billing, stock tracking, staff PIN locks, automatic daily backups, and 58mm/80mm thermal receipt printing with zero internet dependency.
-- **Mobile Barcode Scanner & Remote Access:** Scan product boxes directly via smartphone camera and manage store operations remotely from anywhere.
-- **Online Ordering & F&B Workflows:** Integrated ordering website with delivery radius/per-km rules, 1-click ON/OFF store toggle, KOT kitchen tickets, table QR/waiter ordering, and *udhar/credit khata*.
+- **Offline-First Counter:** Instant barcode billing, stock tracking, staff PIN locks, automatic daily backups, and 58mm/80mm thermal receipt printing with no internet needed.
+- **Mobile Barcode Scanner and Remote Access:** Scan products with a phone camera and manage the store remotely.
+- **Online Ordering and Restaurant Workflows:** Ordering website with delivery radius and per-km rules, one-click store ON/OFF, KOT kitchen tickets, table QR/waiter ordering, and *udhar* (credit) khata.
+- **Tech:** Electron (desktop versions), Firebase, Vercel.
 
 #### 🎮 [Phone Xbox Controller – Use Your Phone as a Gamepad for PC Games](https://github.com/Bilal-Sardar/phone-xbox-controller)
-Turn smartphones into virtual Xbox 360 controllers on Windows PC over local Wi-Fi or a USB cable, enabling wireless gamepad controls and two-player couch co-op for PC games like Tekken 7, FIFA, and Steam titles.
+Turns a smartphone into a virtual Xbox 360 controller on Windows PC over local Wi-Fi or USB, with two-player couch co-op for games like Tekken 7, FIFA and Steam titles.
 
-- **Two Independent Virtual Controllers:** Full support for Player 1 and Player 2 couch co-op sessions.
-- **Multi-Touch Safe & Low Latency:** Sends complete button states on every touch change for responsive, lag-free gameplay.
-- **Haptic Feedback & USB Mode:** Translates in-game rumble directly to phone vibration, with USB cable support via ADB when Wi-Fi isn't available.
+- **Two Independent Controllers:** Full support for Player 1 and Player 2.
+- **Multi-Touch Safe and Low Latency:** Sends complete button states on every touch change for responsive play.
+- **Haptic Feedback and USB Mode:** In-game rumble becomes phone vibration, and USB via ADB works when Wi-Fi isn't available.
 
 #### 🏆 [ClutchZone – Free Fire Tournament Platform](https://github.com/Bilal-Sardar/clutchzone-platform.git)
-A free Free Fire tournament platform I built from scratch for players across Pakistan, with live rankings and a secure admin portal to manage tournaments.
+A free tournament platform for Free Fire players across Pakistan, with live rankings and a secure admin portal.
 
-- **Real-Time Rank Updates:** Player rankings update live as results are entered, so players can follow their standing instantly.
-- **Secure Admin Portal:** Private dashboard with Gmail-verified admin login (Firebase Authentication) to manage tournaments, players and results *(not public for security reasons)*.
-- **Firebase Database:** Tournaments, players, results and the full ranking system are stored and synced in one place.
-- **Tech Stack:** Vercel (hosting), Firebase (Auth and Database), built with AI-assisted development using Claude and Google AI Studio.
+- **Real-Time Rankings:** Standings update live as results are entered.
+- **Secure Admin Portal:** Gmail-verified admin login (Firebase Authentication) to manage tournaments, players and results *(private for security reasons)*.
+- **Tech:** Firebase (Auth and Database), Vercel, built with AI-assisted development.
+
+---
+
+### 🧪 Other Things I've Built
+
+- **AI Assistant / Chatbot:** Plays songs on YouTube, writes notes, sets reminders and does research.
+- **Algo Trading Bot (MT5):** Trained and ran it for 3 months. It did not succeed, but I learned a lot about testing ideas, risk and why most strategies fail.
 
 ---
 
 ### 📬 Get In Touch
+
 - 📧 **Email:** mbsmja07@gmail.com
 - 💬 **WhatsApp:** [+92 327 0617401](https://wa.me/923270617401?text=Hi%20Bilal%2C%20I%20saw%20your%20GitHub%20profile)
-- 🌐 **Interactive Portfolio:** [bilal-sardarportfolio.vercel.app](https://bilal-sardarportfolio.vercel.app)
+- 🌐 **Portfolio:** [bilal-sardarportfolio.vercel.app](https://bilal-sardarportfolio.vercel.app)
+- 💼 **LinkedIn:** [linkedin.com/in/bilal-sardar](https://www.linkedin.com/in/bilal-sardar/)
 
-*Ready for worldwide remote roles*
+*Open to remote roles worldwide.*
