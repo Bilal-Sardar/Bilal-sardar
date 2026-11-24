@@ -16,9 +16,23 @@ I operate where modern software engineering meets digital business operations—
 
 ---
 
-### 🏆 Featured Project
+### 🏆 Featured Projects
 
-#### 🎮 [ClutchZone – Free Fire Tournament Platform](https://github.com/Bilal-Sardar/clutchzone-platform.git)
+#### 🧾 [ScanVerve POS – Billing, Inventory & Managed Store System](https://github.com/Bilal-Sardar/Scanverve)
+A Windows billing, inventory, and fully managed store system built for pharmacies, grocery marts, restaurants, and retail shops across Pakistan — live at **[scanverve.online](https://scanverve.online)**.
+
+- **Offline-First Counter Core:** Instant barcode billing, stock tracking, staff PIN locks, automatic daily backups, and 58mm/80mm thermal receipt printing with zero internet dependency.
+- **Mobile Barcode Scanner & Remote Access:** Scan product boxes directly via smartphone camera and manage store operations remotely from anywhere.
+- **Online Ordering & F&B Workflows:** Integrated ordering website with delivery radius/per-km rules, 1-click ON/OFF store toggle, KOT kitchen tickets, table QR/waiter ordering, and *udhar/credit khata*.
+
+#### 🎮 [Phone Xbox Controller – Use Your Phone as a Gamepad for PC Games](https://github.com/Bilal-Sardar/phone-xbox-controller)
+Turn smartphones into virtual Xbox 360 controllers on Windows PC over local Wi-Fi or a USB cable, enabling wireless gamepad controls and two-player couch co-op for PC games like Tekken 7, FIFA, and Steam titles.
+
+- **Two Independent Virtual Controllers:** Full support for Player 1 and Player 2 couch co-op sessions.
+- **Multi-Touch Safe & Low Latency:** Sends complete button states on every touch change for responsive, lag-free gameplay.
+- **Haptic Feedback & USB Mode:** Translates in-game rumble directly to phone vibration, with USB cable support via ADB when Wi-Fi isn't available.
+
+#### 🏆 [ClutchZone – Free Fire Tournament Platform](https://github.com/Bilal-Sardar/clutchzone-platform.git)
 A free Free Fire tournament platform I built from scratch for players across Pakistan, with live rankings and a secure admin portal to manage tournaments.
 
 - **Real-Time Rank Updates:** Player rankings update live as results are entered, so players can follow their standing instantly.
