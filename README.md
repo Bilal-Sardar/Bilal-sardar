@@ -41,7 +41,8 @@ Billing, inventory and fully managed store software for pharmacies, grocery mart
 
 - **Offline-First Counter:** Instant barcode billing, stock tracking, staff PIN locks, automatic daily backups, and 58mm/80mm thermal receipt printing with no internet needed.
 - **Mobile Barcode Scanner and Remote Access:** Scan products with a phone camera and manage the store remotely.
-- **Online Ordering and Restaurant Workflows:** Ordering website with delivery radius and per-km rules, one-click store ON/OFF, KOT kitchen tickets, table QR/waiter ordering, and *udhar* (credit) khata.
+- **Online Ordering and Restaurant Workflows:** Ordering website with delivery radius and per-km rules, one-click store ON/OFF, KOT kitchen tickets and table QR/waiter ordering. *Udhar* (credit) khata is available in V3.
+- **Versions:** V1 (offline desktop), V2 (online + offline desktop) and V3 (fully managed web app).
 - **Tech:** Electron (desktop versions), Firebase, Vercel.
 
 #### 🎮 [Phone Xbox Controller – Use Your Phone as a Gamepad for PC Games](https://github.com/Bilal-Sardar/phone-xbox-controller)
